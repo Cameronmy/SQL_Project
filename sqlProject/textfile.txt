@@ -1,3 +1,0 @@
-This is a repository for my Sparta Global mini project.
-
-During week two of my training at Sparta Global I learned a few SQL techniques that I implemented to solve SQL queries
